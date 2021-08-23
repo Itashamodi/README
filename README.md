@@ -1,7 +1,7 @@
 # README
 It is a introductory Repository
 <h1 align="center">Hi 👋, I'm Itasha Modi</h1>
-<h3 align="center">A passionate frontend developer from India,Ilike to code eat sleep and code.</h3>
+<h3 align="center">A passionate frontend developer from India,I like to code eat sleep and code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itashamodi&label=Profile%20views&color=0e75b6&style=flat" alt="itashamodi" /> </p>
 
